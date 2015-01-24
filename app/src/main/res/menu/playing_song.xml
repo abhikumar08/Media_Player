@@ -1,0 +1,15 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    
+    
+    <item android:id="@+id/playlist" 
+        android:showAsAction="always" 
+    	android:title="Play List"    
+       ></item>
+    
+    
+    <item android:id="@+id/itemVideo" 
+        android:title="Videos"
+        android:showAsAction="always"></item>
+
+</menu>
